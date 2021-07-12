@@ -1,0 +1,2 @@
+rootProject.name = "bankAccount_Assignment"
+include ':app'
